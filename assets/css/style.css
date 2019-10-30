@@ -1,0 +1,30 @@
+body{
+    margin: 0 10%; 
+}
+
+button{
+    margin: 1% ; 
+}
+
+form{
+    margin: 1%; 
+    width: 50%; 
+}
+
+h1{
+    text-align: center;
+    color: white; 
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.jumbotron{
+    background: url("../images/background.jpeg"); 
+    background-size: 100%;
+    font-family: 'Anton', sans-serif;
+   
+}
+
+#gifs{
+    display: inline; 
+}
